@@ -1,0 +1,2 @@
+First line: This is my Git assignment.
+Second line: I am learning Git and GitHub.
